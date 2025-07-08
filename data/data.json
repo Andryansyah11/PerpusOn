@@ -1,0 +1,13 @@
+{
+  "borrowed": [],
+  "history": [
+    {
+      "id": 1,
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata"
+    }
+  ],
+  "borrowCounts": {
+    "1": 1
+  }
+}

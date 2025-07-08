@@ -1,0 +1,42 @@
+{
+  "books": [
+    {
+      "id": 1751793650021,
+      "title": "Riliv",
+      "author": "Ryan",
+      "image": "/uploads/cf8c9b63-1b6e-4da2-8479-e937e26ae91d-Riliv-Logo.png"
+    },
+    {
+      "id": 1751796283756,
+      "title": "MindTera",
+      "author": "Ryann",
+      "image": "/uploads/882e0004-2647-4453-af39-6578c70adf89-Mindtera-Logo.png"
+    }
+  ],
+  "borrowed": [],
+  "history": [
+    {
+      "id": 1751793650021,
+      "title": "Riliv",
+      "author": "Ryan",
+      "image": "/uploads/cf8c9b63-1b6e-4da2-8479-e937e26ae91d-Riliv-Logo.png"
+    },
+    {
+      "id": 1751796283756,
+      "title": "MindTera",
+      "author": "Ryann",
+      "image": "/uploads/882e0004-2647-4453-af39-6578c70adf89-Mindtera-Logo.png"
+    },
+    {
+      "id": 1751796491471,
+      "title": "hai",
+      "author": "fa",
+      "image": "/uploads/23ca72af-4d6d-4dea-9320-4185109940bb-Yellow Illustrative Banana Shop Logo (1).png"
+    }
+  ],
+  "borrowCounts": {
+    "1751793650021": 3,
+    "1751796283756": 1,
+    "1751796491471": 2
+  }
+}
